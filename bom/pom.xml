@@ -417,6 +417,11 @@
             </dependency>
             <dependency>
                 <groupId>wonder.plugins</groupId>
+                <artifactId>ERMicrosoftPlugIn</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>wonder.plugins</groupId>
                 <artifactId>EROraclePlugIn</artifactId>
                 <version>${project.version}</version>
             </dependency>
