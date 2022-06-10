@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>wonder.examples</groupId>
 		<artifactId>examples</artifactId>
-		<version>7.4-via-2</version>
+		<version>7.4-via-3</version>
 	</parent>
 
 	<artifactId>erxpartials</artifactId>
