@@ -213,7 +213,7 @@ public class ERMicrosoftPlugIn extends MicrosoftPlugIn {
      * @return the name of the sequence.
      */
     protected String sequenceNameForEntity(EOEntity entity) {
-        return entity.primaryKeyRootName() + "_seq";
+        return "sq_" + entity.primaryKeyRootName();
     }
 
     /**
