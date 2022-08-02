@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>wonder.frameworks</groupId>
 		<artifactId>frameworks</artifactId>
-		<version>7.4-via-5</version>
+		<version>7.4-via-6</version>
 	</parent>
 	<artifactId>core</artifactId>
 	<packaging>pom</packaging>
