@@ -2,7 +2,7 @@
 	<parent>
 		<groupId>wonder.frameworks</groupId>
 		<artifactId>eof</artifactId>
-		<version>7.4-via-4</version>
+		<version>7.4-via-5</version>
 	</parent>
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>wonder.eof</groupId>
